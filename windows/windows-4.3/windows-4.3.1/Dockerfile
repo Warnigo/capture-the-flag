@@ -1,4 +1,3 @@
-# Use Go for compiling the challenge
 FROM golang:1.17 AS build
 
 WORKDIR /build
